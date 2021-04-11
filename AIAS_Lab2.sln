@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AIAS_Lab2", "AIAS_Lab2\AIAS_Lab2.csproj", "{8ABCEE9A-93CB-4699-BB39-04E892A99FF8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AIAS_Lab2_Tests", "AIAS_Lab2_Tests\AIAS_Lab2_Tests.csproj", "{565EE979-A470-49B4-B75B-8C218319112F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8ABCEE9A-93CB-4699-BB39-04E892A99FF8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8ABCEE9A-93CB-4699-BB39-04E892A99FF8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8ABCEE9A-93CB-4699-BB39-04E892A99FF8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8ABCEE9A-93CB-4699-BB39-04E892A99FF8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{565EE979-A470-49B4-B75B-8C218319112F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{565EE979-A470-49B4-B75B-8C218319112F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{565EE979-A470-49B4-B75B-8C218319112F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{565EE979-A470-49B4-B75B-8C218319112F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
