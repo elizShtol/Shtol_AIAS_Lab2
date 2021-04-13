@@ -6,7 +6,7 @@ namespace AIAS_Lab2
 {
     class Program
     {
-        static void Main(string[] args)
+        static void Main()
         {
             Console.WriteLine("Введите путь до файла с данными для эксперимента");
             var path = Console.ReadLine();

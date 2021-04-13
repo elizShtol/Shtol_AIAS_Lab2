@@ -18,8 +18,6 @@ namespace AIAS_Lab2
                     i++;
                     operationsCount++; 
                 }
-
-                operationsCount++;
             }
             return i - 1;             
         }
